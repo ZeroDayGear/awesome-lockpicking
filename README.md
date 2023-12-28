@@ -95,3 +95,4 @@
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
 * [Spooxe](http://spooxe.com/) - German retailer of lock picking tools, tool cases and locks.
+* [Zero Day Gear](https://zerodaygear.com) - USA retailer of lock picks, taining aids, bump keys, and EDC tools.
