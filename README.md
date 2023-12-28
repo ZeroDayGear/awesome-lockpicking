@@ -18,7 +18,6 @@
 
 # Books
 
-* [Eddie the Wire books](https://www.dropbox.com/sh/k3z4dm4vyyojp3o/AAAIXQuwMmNuCch_StLPUYm-a?dl=0)
 * [Expedient B and E: Tactics and Techniques for Bypassing Alarms and Defeating Locks - Carl Hammer](https://www.amazon.com/Expedient-Tactics-Techniques-Bypassing-Defeating/dp/0873646886/)
 * [Keys to the Kingdom by Deviant Ollam, 2012](https://www.elsevier.com/books/keys-to-the-kingdom/ollam/978-1-59749-983-5)
 * [Lock Picking: Detail Overkill by Solomon](https://www.dropbox.com/s/y39ix9u9qpqffct/Lockpicking%20Detail%20Overkill.pdf?dl=0)
@@ -39,11 +38,10 @@
 
 * [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
 * [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
-* [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
-* [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
+* [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
+* [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
 * [Under Door Tool Kit Instructions](https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
-* [Lock Dice](http://schuylertowne.com/blog/lockpicking-with-dice) - In this dice-based locksport game, as a budding lock maker you have set out to test your designs against your peers.
-
+* 
 # How-to lockpicking guides
 
 * [Art of Lockpicking](https://art-of-lockpicking.com/) - Educational website with animations detailing the process of picking locks.
@@ -51,7 +49,6 @@
 * [BosnianBill's Lock Picking for Beginners](https://www.youtube.com/playlist?list=PLTSWkYxuSlkXiSBwk3Hvbvx71sg-MH61s) - YouTube playlist of selected instructional videos sorted in order from first principles to techniques for specific locks.
 * [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - Guidebook covering terminology, tool use, and techniques for picking the vast majority of pin and wafer tumbler locks.
 * [Deviant Ollam's Lockpicking Video Presentations and Advisories](http://deviating.net/lockpicking/videos.html) - Collection of physec talks and locksport advice for all skill levels from a world-reknowned expert.
-* [Easy Pickings - Mini Lockpicking Manual](http://index-of.es/Lockpicking/Easy%20Pickings%20-%20Mini%20Lockpicking%20Manual.pdf) - Widely-distributed beginner's manual with diagrams showcasing how to pick various entry-level locks.
 * [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) - Famous introductory text by Ted the Tool.
 * [Lock Picking: Detail Overkill](https://web.archive.org/web/20170730120626/http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
 * [LockLab's Lock Picking Course](https://locklab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
@@ -64,9 +61,6 @@
 * [Locksport International](http://locksport.com) - International association of lockpickers who offer help starting new locksport clubs and groups.
 * [Sportsfreunde der Sperrtechnik - Deutschland e.V.](https://blog.ssdev.org/) - German lock picking sports club who hosts the german lock picking masters and offers workshops on how to pick locks.
 
-# Novel lock attack techniques and research
-
-* [SpiKey](https://www.comp.nus.edu.sg/~junhan/papers/SpiKey_HotMobile20_CamReady.pdf) - Acoustic-based physical key inference.
 
 # Online communities
 
@@ -86,8 +80,8 @@
 # Vendors
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
-* [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
-* [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
+* [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers.
+* [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://www.lockpickextreme.com/product-category/jewelry/) featuring earrings and other jewelry that also function as sturdy tools.
 * [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their top-of-keyway turning tools are famous but overpriced (you can make your own).
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
 * [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.
@@ -95,3 +89,4 @@
 * [Southern Specialities](http://www.lockpicktools.com/) - Retailer of numerous lockpicking sets, pick guns, and more.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/) - Manufacturer of specialty and quality lock pick tools; their [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) pinning tweezer is particularly useful.
 * [Spooxe](http://spooxe.com/) - German retailer of lock picking tools, tool cases and locks.
+* [Zero Day Gear](https://zerodaygear.com) - Retailer of lock picks, bump keys, and EDC gear. 
